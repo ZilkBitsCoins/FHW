@@ -1,0 +1,6 @@
+Hacer esta lista de ejercicios de practica.
+
+- Hacer conexión a una base de datos sqlite3 y crear tabla de usuarios.
+- Crear encriptador de contraseñas.
+- Crear conexión a API pokémon.
+- Modificar via git los .py ya existentes.
